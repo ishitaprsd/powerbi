@@ -44,3 +44,7 @@ Upon successful completion of the task, the expected outcomes included a publish
 3. Planned and executed a comprehensive demonstration to the team, providing insights into the Live Connection mode and the developed report.
 
 By addressing these aspects, the task equipped individuals with practical skills in Power BI service development and DAX usage.
+
+**Report View:**
+
+<img width="581" alt="image" src="https://github.com/ishitaprsd/powerbi/assets/40393863/62482ee2-21a7-403b-85da-1d96415dce79">
