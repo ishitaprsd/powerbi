@@ -11,8 +11,6 @@ The task involved working with the Retail Sales Sample dataset sourced from the 
 
 <img width="581" alt="image" src="https://github.com/ishitaprsd/powerbi/assets/40393863/62482ee2-21a7-403b-85da-1d96415dce79">
 
-
-
 **Prerequisites:**
 
 To undertake this task, familiarity with the Power BI service and Power BI desktop was essential.
@@ -50,3 +48,54 @@ Upon successful completion of the task, the expected outcomes included a publish
 3. Planned and executed a comprehensive demonstration to the team, providing insights into the Live Connection mode and the developed report.
 
 By addressing these aspects, the task equipped individuals with practical skills in Power BI service development and DAX usage.
+
+
+# USECASE 2: Executive Summary Sales Report
+
+**Problem Statement:**
+
+The objective of this use case was to work on the Executive Summary Sales Report using data from the AdventureWorks Sales Sample excel source. The focus was on gaining proficiency in dimensional modeling and Data Analysis Expressions (DAX).
+
+**Prerequisites:**
+
+To successfully undertake this use case, participants needed familiarity with both Power BI desktop and Power BI service for subsequent publishing.
+
+**Skills Acquired:**
+
+The primary skills acquired in this use case revolved around dimensional modeling and mastering the application of DAX within Power BI.
+
+**Outcome:**
+
+Upon the completion of this use case, the expected outcomes were as follows:
+
+1. Import data without relying on auto-detection of relationships, emphasizing a manual and controlled approach to data relationship establishment.
+
+2. Build relationships between queries to ensure a cohesive and interconnected dataset for comprehensive analysis.
+
+3. Conduct a demonstration to the team, showcasing the imported tables, and provide a brief discussion on dimensional modeling, addressing any queries that may arise.
+
+**Findings:**
+
+1. The AdventureWorks Sales Sample excel source, available [here](https://github.com/microsoft/powerbi-desktop-samples/blob/main/AdventureWorks%20Sales%20Sample/AdventureWorks%20Sales.xlsx), served as a robust foundation for understanding dimensional modeling and DAX application.
+
+2. Importing data without relying on auto-detection fostered a more intentional and customized approach to data relationships.
+
+3. Establishing relationships between queries facilitated a well-connected dataset, enhancing the overall analytical capabilities.
+
+**Challenges:**
+
+1. Balancing the complexity of dimensional modeling with the need for simplicity and clarity in the final report.
+
+2. Ensuring effective communication during the team demonstration to convey the nuances of dimensional modeling and the significance of manual relationship establishment.
+
+**Next Steps:**
+
+1. Explore the AdventureWorks Sales Sample excel source and understand the dataset's structure.
+
+2. Import data into Power BI desktop without relying on auto-detection of relationships.
+
+3. Build relationships between queries, emphasizing a well-connected and organized dataset.
+
+4. Plan and execute a team demonstration, showcasing the list of tables, and providing a brief discussion on dimensional modeling and the manual relationship-building process.
+
+By addressing these aspects, participants were equipped with practical skills in dimensional modeling and DAX application within Power BI.
