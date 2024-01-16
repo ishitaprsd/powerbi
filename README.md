@@ -406,6 +406,10 @@ By addressing these aspects, participants will gain practical experience in Powe
 
 This use case focuses on building a Sales Analysis Dashboard using data from AdventureWorks Sales. The primary objective is to acquire skills in development through Power BI desktop, specifically emphasizing the application of Data Analysis Expressions (DAX).
 
+**Report View:**
+
+<img width="591" alt="image" src="https://github.com/ishitaprsd/powerbi/assets/40393863/f376e70a-688d-452a-956d-0598c0881a65">
+
 **Prerequisites:**
 
 To effectively engage in this use case, participants should have familiarity with both Power BI service and Power BI desktop.
@@ -456,4 +460,74 @@ Upon successful completion of this use case, the expected outcomes are as follow
 
 By addressing these aspects, participants will gain practical experience in Power BI desktop development and DAX application, contributing to their proficiency in creating insightful and interactive sales analysis dashboards.
 
+# USECASE 10: Superstore Global Analysis
 
+**Problem Statement:**
+
+This use case centers around conducting a comprehensive Superstore Global Analysis using data from Infocepts Excel. The primary objective is to acquire skills in development through Power BI desktop.
+
+**Prerequisites:**
+
+To effectively engage in this use case, participants should have familiarity with Power BI desktop.
+
+**Skills Acquired:**
+
+The key skills to be acquired in this use case are centered around development through Power BI desktop, with a focus on analyzing and visualizing Superstore Global data.
+
+**Expected Outcome:**
+
+Upon successful completion of this use case, the expected outcomes are as follows:
+
+1. Develop an insightful and visually appealing report on the Power BI desktop, showcasing the results of the Superstore Global Analysis.
+
+**Findings:**
+
+1. Utilizing data from Infocepts Excel provides a practical context for learning and implementing Power BI desktop development techniques specific to global analysis.
+
+**Challenges:**
+
+1. Balancing the complexity of the Superstore Global Analysis to ensure both accuracy and interpretability in the insights generated.
+
+**Next Steps:**
+
+1. Explore the Infocepts Excel dataset to understand the relevant metrics and factors influencing the Superstore Global Analysis.
+
+2. Develop the Superstore Global Analysis report using Power BI desktop, emphasizing insightful data representation.
+
+By addressing these aspects, participants will gain practical experience in Power BI desktop development, contributing to their proficiency in conducting meaningful global analyses within the business context.
+
+# USECASE 11: COVID Data Analysis
+
+**Problem Statement:**
+
+This use case focuses on conducting a detailed COVID Data Analysis using information from the COVID-19 Activity Excel source. The primary objective is to acquire skills in development through Power BI desktop.
+
+**Prerequisites:**
+
+To effectively engage in this use case, participants should have familiarity with Power BI desktop.
+
+**Skills Acquired:**
+
+The key skills to be acquired in this use case are centered around development through Power BI desktop, with a focus on analyzing and visualizing COVID-19 data.
+
+**Expected Outcome:**
+
+Upon successful completion of this use case, the expected outcome is as follows:
+
+1. Design an informative and visually compelling report on the Power BI desktop, presenting insights derived from the COVID Data Analysis.
+
+**Findings:**
+
+1. Utilizing data from the COVID-19 Activity Excel source provides a practical context for learning and implementing Power BI desktop development techniques specific to pandemic-related data.
+
+**Challenges:**
+
+1. Balancing the complexity of the COVID Data Analysis to ensure both accuracy and interpretability in the insights generated.
+
+**Next Steps:**
+
+1. Explore the COVID-19 Activity Excel dataset to understand the relevant metrics and factors influencing the pandemic data.
+
+2. Develop the COVID Data Analysis report using Power BI desktop, emphasizing insightful data representation.
+
+By addressing these aspects, participants will gain practical experience in Power BI desktop development, contributing to their proficiency in conducting meaningful analyses related to COVID-19 data.
