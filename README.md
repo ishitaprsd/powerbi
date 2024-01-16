@@ -7,6 +7,10 @@ A brief description of what this project does and who it's for
 
 The task involved working with the Retail Sales Sample dataset sourced from the Power BI service Retail Analytics sample. The goal was to develop a comprehensive understanding of Power BI service functionalities and DAX (Data Analysis Expressions) to achieve specific outcomes.
 
+**Report View:**
+
+<img width="581" alt="image" src="https://github.com/ishitaprsd/powerbi/assets/40393863/62482ee2-21a7-403b-85da-1d96415dce79">
+
 **Prerequisites:**
 
 To undertake this task, familiarity with the Power BI service and Power BI desktop was essential.
@@ -44,7 +48,3 @@ Upon successful completion of the task, the expected outcomes included a publish
 3. Planned and executed a comprehensive demonstration to the team, providing insights into the Live Connection mode and the developed report.
 
 By addressing these aspects, the task equipped individuals with practical skills in Power BI service development and DAX usage.
-
-**Report View:**
-
-<img width="581" alt="image" src="https://github.com/ishitaprsd/powerbi/assets/40393863/62482ee2-21a7-403b-85da-1d96415dce79">
