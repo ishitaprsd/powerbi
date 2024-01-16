@@ -1,5 +1,3 @@
-POWER BI PROJECTS
-
 # USECASE 01 - Retail Sales Sample
 
 A brief description of what this project does and who it's for
