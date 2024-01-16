@@ -12,6 +12,7 @@ The task involved working with the Retail Sales Sample dataset sourced from the 
 <img width="581" alt="image" src="https://github.com/ishitaprsd/powerbi/assets/40393863/62482ee2-21a7-403b-85da-1d96415dce79">
 
 
+
 **Prerequisites:**
 
 To undertake this task, familiarity with the Power BI service and Power BI desktop was essential.
