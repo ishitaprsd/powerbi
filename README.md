@@ -149,3 +149,311 @@ Upon successful completion of this use case, the expected outcomes were as follo
 4. Plan and execute a team demonstration, providing insights into the design choices, functionalities, and interactivity of the Wind Power Dashboard.
 
 By addressing these aspects, participants gained practical experience in leveraging Power BI's inbuilt functionalities to create a visually compelling and insightful dashboard.
+
+# USECASE 4: World - People and Society
+
+**Problem Statement:**
+
+The objective of this use case was to construct a comprehensive World - People and Society dashboard using data from the provided source: [CIA World Factbook](https://www.cia.gov/the-world-factbook/references/guide-to-country-comparisons/#people-and-society). The primary focus was on acquiring skills in data preparation, massaging, dimensional modeling, and an exhaustive usage of Power BI functionalities, including detailed DAX, dynamic Row-Level Security (RLS) implementation, wireframe creation, and UX design.
+
+**Prerequisites:**
+
+Participants were required to be familiar with Power BI desktop, Power BI service, or Excel to effectively engage in this use case.
+
+**Skills Acquired:**
+
+The primary skills targeted in this use case included data preparation, data massaging, dimensional modeling, exhaustive usage of Power BI functionality with detailed DAX, dynamic RLS implementation, wireframing, and UX design.
+
+**To Build:**
+
+1. Implement RLS by continent, ensuring controlled access to data based on user roles.
+
+2. Display key metrics such as Area, Population, Population Growth Rate, Birth Rate, Death Rate, Net Migration Rate, Infant Mortality Rate, Total Fertility Rate, Maternal Mortality Rate, HIV Adult Prevalence Rate, and Obesity Adult Prevalence Rate. Additionally, compare Death and HIV Death Rates for the Top 10 Countries.
+
+3. Provide an option to explore data for all countries.
+
+**Expected Outcome:**
+
+1. Develop a flexible wireframe design, focusing on user-friendly and informative visuals.
+
+2. Implement different visuals from Power BI, showcasing a range of data representations.
+
+3. Utilize various DAX functionalities to enhance the depth of data analysis.
+
+4. Design and publish a comprehensive report on the Power BI service, ensuring accessibility for a wider audience.
+
+5. Conduct a team demonstration, highlighting the wireframe design, visual implementations, DAX functionalities, and overall insights derived from the People and Society dashboard.
+
+**Findings:**
+
+1. The CIA World Factbook served as a rich and reliable data source for creating the People and Society dashboard.
+
+2. Implementing RLS by continent allowed for controlled access to data, enhancing security and privacy.
+
+3. Displaying key metrics provided valuable insights into global demographics and health indicators.
+
+4. Creating a user-friendly wireframe design and implementing various DAX functionalities facilitated dynamic and interactive data exploration.
+
+**Challenges:**
+
+1. Balancing the complexity of data representation with the need for simplicity in the wireframe design.
+
+2. Implementing dynamic RLS to ensure data security without compromising user experience.
+
+**Next Steps:**
+
+1. Explore the CIA World Factbook data source to understand the relevant metrics and information.
+
+2. Implement RLS by continent to control access to data based on user roles.
+
+3. Display key metrics and compare indicators for the Top 10 Countries, providing a comprehensive view of People and Society dynamics.
+
+4. Create a flexible wireframe design and utilize various DAX functionalities for enhanced data analysis.
+
+5. Design and publish the People and Society dashboard on the Power BI service.
+
+6. Plan and execute a team demonstration, showcasing the wireframe design, visual implementations, and derived insights from the comprehensive dashboard.
+
+By addressing these aspects, participants gained practical experience in dimensional modeling, data preparation, and utilizing Power BI functionalities for insightful data analysis and visualization.
+
+# USECASE 5: Sales Scorecard Dashboard
+
+**Problem Statement:**
+
+This use case focuses on developing a Sales Scorecard Dashboard using data from Adventure Works Sales. The primary objective is to acquire skills in development via Power BI service, specifically utilizing Data Analysis Expressions (DAX).
+
+**Prerequisites:**
+
+Participants are required to have familiarity with both Power BI service and Power BI desktop to effectively engage in this use case.
+
+**Skills Acquired:**
+
+The key skills to be acquired in this use case revolve around the development of a Sales Scorecard Dashboard using Power BI service, with a specific focus on implementing DAX.
+
+**Expected Outcome:**
+
+Upon successful completion of this use case, the expected outcomes are as follows:
+
+1. Publish a comprehensive report on the Power BI service, potentially incorporating Row-Level Security (RLS) for controlled data access.
+
+2. Conduct a team demonstration as needed, showcasing the Sales Scorecard Dashboard and providing insights into its design and functionality.
+
+**Findings:**
+
+1. Utilizing data from Adventure Works Sales offers a practical context for learning and implementing Power BI development techniques.
+
+2. The focus on DAX within Power BI service provides a hands-on opportunity to enhance skills in data analysis and visualization.
+
+**Challenges:**
+
+1. Balancing the design complexity of the Sales Scorecard Dashboard to ensure both aesthetics and functionality align with user expectations.
+
+2. Implementing RLS for enhanced security without compromising the user experience.
+
+**Next Steps:**
+
+1. Explore the Adventure Works Sales dataset to understand the relevant sales metrics.
+
+2. Develop a Sales Scorecard Dashboard using Power BI service, emphasizing the application of DAX for insightful data representation.
+
+3. Publish the dashboard on the Power BI service, providing accessibility and sharing capabilities.
+
+4. Plan and execute a team demonstration, showcasing the Sales Scorecard Dashboard, its features, and the value it brings to data analysis.
+
+By addressing these aspects, participants will gain practical experience in Power BI service development and DAX application, contributing to their proficiency in creating insightful and visually appealing dashboards.
+
+# USECASE 6: Profit Growth
+
+**Problem Statement:**
+
+This use case revolves around analyzing Profit Growth using data from Adventure Works Sales. The primary aim is to acquire skills in development through Power BI service, with a specific focus on utilizing Data Analysis Expressions (DAX).
+
+**Prerequisites:**
+
+To engage effectively in this use case, participants should be familiar with both Power BI service and Power BI desktop.
+
+**Skills Acquired:**
+
+The key skills to be acquired in this use case are centered around development through Power BI service, emphasizing the application of DAX for insightful data analysis.
+
+**Expected Outcome:**
+
+Upon successful completion of this use case, the expected outcomes are as follows:
+
+1. Publish a comprehensive report on the Power BI service, potentially incorporating Row-Level Security (RLS) for controlled data access.
+
+2. Conduct a team demonstration as needed, showcasing the Profit Growth analysis and providing insights into its design and functionality.
+
+**Findings:**
+
+1. Utilizing data from Adventure Works Sales offers a practical context for learning and implementing Power BI development techniques specific to Profit Growth analysis.
+
+2. The focus on DAX within Power BI service provides a hands-on opportunity to enhance skills in data analysis and visualization, particularly in the context of Profit Growth.
+
+**Challenges:**
+
+1. Balancing the complexity of the Profit Growth analysis to ensure both accuracy and interpretability in the insights generated.
+
+2. Implementing RLS for enhanced security without compromising the user experience.
+
+**Next Steps:**
+
+1. Explore the Adventure Works Sales dataset to understand the relevant metrics and factors influencing Profit Growth.
+
+2. Develop a Profit Growth analysis using Power BI service, emphasizing the application of DAX for meaningful insights.
+
+3. Publish the analysis on the Power BI service, ensuring accessibility and sharing capabilities.
+
+4. Plan and execute a team demonstration, showcasing the Profit Growth analysis, its features, and the valuable insights it provides for data-driven decision-making.
+
+By addressing these aspects, participants will gain practical experience in Power BI service development and DAX application, contributing to their proficiency in conducting meaningful Profit Growth analyses within the business context.
+
+# USECASE 7: Sales Analysis Dashboard
+
+**Problem Statement:**
+
+This use case is centered around creating a Sales Analysis Dashboard using data from Analysis Service Sales. The primary objective is to acquire skills in development through Power BI service, with a specific focus on utilizing Data Analysis Expressions (DAX).
+
+**Prerequisites:**
+
+To effectively engage in this use case, participants should have familiarity with both Power BI service and Power BI desktop.
+
+**Skills Acquired:**
+
+The key skills to be acquired in this use case revolve around development through Power BI service, emphasizing the application of DAX for insightful sales data analysis.
+
+**Expected Outcome:**
+
+Upon successful completion of this use case, the expected outcomes are as follows:
+
+1. Publish a comprehensive report on the Power BI service, potentially incorporating Row-Level Security (RLS) for controlled data access.
+
+2. Conduct a team demonstration as needed, showcasing the Sales Analysis Dashboard and providing insights into its design and functionality.
+
+**Findings:**
+
+1. Utilizing data from Analysis Service Sales provides a practical context for learning and implementing Power BI development techniques specific to sales analysis.
+
+2. The focus on DAX within Power BI service offers a hands-on opportunity to enhance skills in data analysis and visualization, particularly in the context of sales performance.
+
+**Challenges:**
+
+1. Balancing the complexity of the Sales Analysis Dashboard to ensure both accuracy and interpretability in the insights generated.
+
+2. Implementing RLS for enhanced security without compromising the user experience.
+
+**Next Steps:**
+
+1. Explore the Analysis Service Sales dataset to understand the relevant sales metrics and factors influencing sales performance.
+
+2. Develop a Sales Analysis Dashboard using Power BI service, emphasizing the application of DAX for meaningful insights.
+
+3. Publish the analysis on the Power BI service, ensuring accessibility and sharing capabilities.
+
+4. Plan and execute a team demonstration, showcasing the Sales Analysis Dashboard, its features, and the valuable insights it provides for data-driven decision-making.
+
+By addressing these aspects, participants will gain practical experience in Power BI service development and DAX application, contributing to their proficiency in conducting meaningful sales analyses within the business context.
+
+# USECASE 8: Sales Performance Dashboard
+
+**Problem Statement:**
+
+This use case revolves around constructing a Sales Performance Dashboard using data from the Adventure Works database. The primary objective is to acquire skills in development through Power BI service, with a specific focus on utilizing Data Analysis Expressions (DAX).
+
+**Prerequisites:**
+
+To effectively engage in this use case, participants should have familiarity with both Power BI service and Power BI desktop.
+
+**Skills Acquired:**
+
+The key skills to be acquired in this use case are centered around development through Power BI service, emphasizing the application of DAX for insightful sales performance analysis.
+
+**Expected Outcome:**
+
+Upon successful completion of this use case, the expected outcomes are as follows:
+
+1. Publish a comprehensive report on the Power BI service, potentially incorporating Row-Level Security (RLS) for controlled data access.
+
+2. Conduct a team demonstration as needed, showcasing the Sales Performance Dashboard and providing insights into its design and functionality.
+
+**Findings:**
+
+1. Utilizing data from the Adventure Works database offers a practical context for learning and implementing Power BI development techniques specific to sales performance analysis.
+
+2. The focus on DAX within Power BI service offers a hands-on opportunity to enhance skills in data analysis and visualization, particularly in the context of evaluating sales performance.
+
+**Challenges:**
+
+1. Balancing the complexity of the Sales Performance Dashboard to ensure both accuracy and interpretability in the insights generated.
+
+2. Implementing RLS for enhanced security without compromising the user experience.
+
+**Next Steps:**
+
+1. Explore the Adventure Works database to understand the relevant sales metrics and factors influencing sales performance.
+
+2. Develop a Sales Performance Dashboard using Power BI service, emphasizing the application of DAX for meaningful insights.
+
+3. Publish the analysis on the Power BI service, ensuring accessibility and sharing capabilities.
+
+4. Plan and execute a team demonstration, showcasing the Sales Performance Dashboard, its features, and the valuable insights it provides for data-driven decision-making.
+
+By addressing these aspects, participants will gain practical experience in Power BI service development and DAX application, contributing to their proficiency in conducting meaningful sales performance analyses within the business context.
+
+# USECASE 9: Sales Analysis Dashboard
+
+**Problem Statement:**
+
+This use case focuses on building a Sales Analysis Dashboard using data from AdventureWorks Sales. The primary objective is to acquire skills in development through Power BI desktop, specifically emphasizing the application of Data Analysis Expressions (DAX).
+
+**Prerequisites:**
+
+To effectively engage in this use case, participants should have familiarity with both Power BI service and Power BI desktop.
+
+**Skills Acquired:**
+
+The key skills to be acquired in this use case are centered around development through Power BI desktop, with a focus on implementing DAX for insightful sales analysis.
+
+**Expected Outcome:**
+
+Upon successful completion of this use case, the expected outcomes are as follows:
+
+1. Implement Drill Through functionality to Customer Details and Product Details pages from the Region visual, enhancing the interactivity of the Sales Analysis Dashboard.
+
+2. Incorporate Tooltip functionality on the Profit by Region visual to provide additional contextual information.
+
+3. Publish a comprehensive report on the Power BI service, potentially incorporating Row-Level Security (RLS) for controlled data access.
+
+4. Conduct a team demonstration as needed, showcasing the Sales Analysis Dashboard and providing insights into its design and functionality.
+
+**Findings:**
+
+1. Utilizing data from AdventureWorks Sales provides a practical context for learning and implementing Power BI desktop development techniques specific to sales analysis.
+
+2. The focus on DAX within Power BI desktop offers a hands-on opportunity to enhance skills in data analysis and visualization, particularly in the context of improving dashboard interactivity.
+
+**Challenges:**
+
+1. Balancing the complexity of the Sales Analysis Dashboard to ensure both accuracy and interpretability in the insights generated.
+
+2. Implementing Drill Through functionality and Tooltip features for a seamless user experience.
+
+3. Implementing RLS for enhanced security without compromising the user experience.
+
+**Next Steps:**
+
+1. Explore the AdventureWorks Sales dataset to understand the relevant sales metrics and factors influencing sales analysis.
+
+2. Develop the Sales Analysis Dashboard using Power BI desktop, emphasizing the application of DAX for meaningful insights.
+
+3. Implement Drill Through functionality to Customer Details and Product Details pages, enhancing the depth of analysis.
+
+4. Incorporate Tooltip functionality on the Profit by Region visual to provide additional insights.
+
+5. Publish the analysis on the Power BI service, ensuring accessibility and sharing capabilities.
+
+6. Plan and execute a team demonstration, showcasing the Sales Analysis Dashboard, its features, and the valuable insights it provides for data-driven decision-making.
+
+By addressing these aspects, participants will gain practical experience in Power BI desktop development and DAX application, contributing to their proficiency in creating insightful and interactive sales analysis dashboards.
+
+
