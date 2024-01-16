@@ -99,3 +99,53 @@ Upon the completion of this use case, the expected outcomes were as follows:
 4. Plan and execute a team demonstration, showcasing the list of tables, and providing a brief discussion on dimensional modeling and the manual relationship-building process.
 
 By addressing these aspects, participants were equipped with practical skills in dimensional modeling and DAX application within Power BI.
+
+# USECASE 3: Energy - Wind Power Dashboard
+
+**Problem Statement:**
+
+The challenge in this use case was to develop an Energy - Wind Power Dashboard utilizing data from the provided source: [Wind Power Rankings](https://www.chooseenergy.com/news/article/best-worst-ranked-states-wind-power/). The primary focus was on achieving an exhaustive usage of Power BI inbuilt functionality.
+
+**Prerequisites:**
+
+Participants needed familiarity with either Power BI desktop, Power BI service, or Excel to successfully engage with this use case.
+
+**Skills Acquired:**
+
+The primary skills targeted in this use case centered around extensively utilizing Power BI's inbuilt functionalities to create a dynamic and informative Wind Power Dashboard.
+
+**Outcome:**
+
+Upon successful completion of this use case, the expected outcomes were as follows:
+
+1. Create two pages with the same design, one incorporating Field Parameters and the other without. This aimed to demonstrate the versatility of design options within Power BI.
+
+2. Publish the report on Power BI service, ensuring accessibility and sharing capabilities for a broader audience.
+
+3. Conduct a team demonstration showcasing the Wind Power Dashboard, highlighting key features and functionality.
+
+**Findings:**
+
+1. The provided Wind Power Rankings data source, available [here](https://www.chooseenergy.com/news/article/best-worst-ranked-states-wind-power/), offered valuable insights for the creation of the Wind Power Dashboard.
+
+2. Creating two pages with varying designs, one with Field Parameters and one without, showcased the flexibility and customization options inherent in Power BI.
+
+3. The exhaustive usage of Power BI's inbuilt functionalities allowed for the development of a dynamic and interactive Wind Power Dashboard.
+
+**Challenges:**
+
+1. Balancing the design and functionality of the Wind Power Dashboard to ensure a user-friendly and informative experience.
+
+2. Ensuring a smooth transition between the two designs with and without Field Parameters while maintaining a cohesive and engaging presentation.
+
+**Next Steps:**
+
+1. Explore the provided Wind Power Rankings data source to understand the relevant metrics and information.
+
+2. Create two pages with the same design, one incorporating Field Parameters and the other without, showcasing the versatility of Power BI.
+
+3. Publish the Wind Power Dashboard on the Power BI service to enable sharing and collaboration.
+
+4. Plan and execute a team demonstration, providing insights into the design choices, functionalities, and interactivity of the Wind Power Dashboard.
+
+By addressing these aspects, participants gained practical experience in leveraging Power BI's inbuilt functionalities to create a visually compelling and insightful dashboard.
