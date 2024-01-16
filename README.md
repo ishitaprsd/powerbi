@@ -76,7 +76,7 @@ Upon the completion of this use case, the expected outcomes were as follows:
 
 **Findings:**
 
-1. The AdventureWorks Sales Sample excel source, available [here](https://github.com/microsoft/powerbi-desktop-samples/blob/main/AdventureWorks%20Sales%20Sample/AdventureWorks%20Sales.xlsx), served as a robust foundation for understanding dimensional modeling and DAX application.
+1. The AdventureWorks Sales Sample excel source, available (https://github.com/microsoft/powerbi-desktop-samples/blob/main/AdventureWorks%20Sales%20Sample/AdventureWorks%20Sales.xlsx), served as a robust foundation for understanding dimensional modeling and DAX application.
 
 2. Importing data without relying on auto-detection fostered a more intentional and customized approach to data relationships.
 
