@@ -55,6 +55,9 @@ By addressing these aspects, the task equipped individuals with practical skills
 
 The objective of this use case was to work on the Executive Summary Sales Report using data from the AdventureWorks Sales Sample excel source. The focus was on gaining proficiency in dimensional modeling and Data Analysis Expressions (DAX).
 
+**Report View:**
+<img width="580" alt="image" src="https://github.com/ishitaprsd/powerbi/assets/40393863/bc50aa74-656c-46a2-a2de-5b887c6875c5">
+
 **Prerequisites:**
 
 To successfully undertake this use case, participants needed familiarity with both Power BI desktop and Power BI service for subsequent publishing.
