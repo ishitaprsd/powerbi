@@ -327,7 +327,7 @@ Upon successful completion of this use case, the expected outcomes are as follow
 
 By addressing these aspects, participants will gain practical experience in Power BI service development and DAX application, contributing to their proficiency in conducting meaningful Profit Growth analyses within the business context.
 
-# USECASE 7: Sales Analysis Dashboard
+# USECASE 7: Sales Analysis Dashboard I
 
 **Problem Statement:**
 
@@ -377,7 +377,7 @@ Upon successful completion of this use case, the expected outcomes are as follow
 
 By addressing these aspects, participants will gain practical experience in Power BI service development and DAX application, contributing to their proficiency in conducting meaningful sales analyses within the business context.
 
-# USECASE 8: Sales Performance Dashboard I
+# USECASE 8: Sales Performance Dashboard
 
 **Problem Statement:**
 
