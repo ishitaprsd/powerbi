@@ -56,6 +56,7 @@ By addressing these aspects, the task equipped individuals with practical skills
 The objective of this use case was to work on the Executive Summary Sales Report using data from the AdventureWorks Sales Sample excel source. The focus was on gaining proficiency in dimensional modeling and Data Analysis Expressions (DAX).
 
 **Report View:**
+
 <img width="580" alt="image" src="https://github.com/ishitaprsd/powerbi/assets/40393863/bc50aa74-656c-46a2-a2de-5b887c6875c5">
 
 **Prerequisites:**
@@ -108,6 +109,10 @@ By addressing these aspects, participants were equipped with practical skills in
 
 The challenge in this use case was to develop an Energy - Wind Power Dashboard utilizing data from the provided source: [Wind Power Rankings](https://www.chooseenergy.com/news/article/best-worst-ranked-states-wind-power/). The primary focus was on achieving an exhaustive usage of Power BI inbuilt functionality.
 
+**Report View:**
+
+<img width="590" alt="image" src="https://github.com/ishitaprsd/powerbi/assets/40393863/0b7ba80e-138d-46e1-87ae-2a8d05a00200">
+
 **Prerequisites:**
 
 Participants needed familiarity with either Power BI desktop, Power BI service, or Excel to successfully engage with this use case.
@@ -157,6 +162,10 @@ By addressing these aspects, participants gained practical experience in leverag
 **Problem Statement:**
 
 The objective of this use case was to construct a comprehensive World - People and Society dashboard using data from the provided source: [CIA World Factbook](https://www.cia.gov/the-world-factbook/references/guide-to-country-comparisons/#people-and-society). The primary focus was on acquiring skills in data preparation, massaging, dimensional modeling, and an exhaustive usage of Power BI functionalities, including detailed DAX, dynamic Row-Level Security (RLS) implementation, wireframe creation, and UX design.
+
+**Report View:**
+
+<img width="572" alt="image" src="https://github.com/ishitaprsd/powerbi/assets/40393863/d96fab87-4b82-4bbd-8750-0800354aeb8d">
 
 **Prerequisites:**
 
@@ -224,6 +233,10 @@ By addressing these aspects, participants gained practical experience in dimensi
 
 This use case focuses on developing a Sales Scorecard Dashboard using data from Adventure Works Sales. The primary objective is to acquire skills in development via Power BI service, specifically utilizing Data Analysis Expressions (DAX).
 
+**Report View:**
+
+<img width="584" alt="image" src="https://github.com/ishitaprsd/powerbi/assets/40393863/8cb7a821-2017-46c5-a945-eaaab4fc710b">
+
 **Prerequisites:**
 
 Participants are required to have familiarity with both Power BI service and Power BI desktop to effectively engage in this use case.
@@ -269,6 +282,10 @@ By addressing these aspects, participants will gain practical experience in Powe
 **Problem Statement:**
 
 This use case revolves around analyzing Profit Growth using data from Adventure Works Sales. The primary aim is to acquire skills in development through Power BI service, with a specific focus on utilizing Data Analysis Expressions (DAX).
+
+**Report View:**
+
+<img width="587" alt="image" src="https://github.com/ishitaprsd/powerbi/assets/40393863/609eb3b1-b289-46dc-a543-cd0683349b02">
 
 **Prerequisites:**
 
@@ -316,6 +333,10 @@ By addressing these aspects, participants will gain practical experience in Powe
 
 This use case is centered around creating a Sales Analysis Dashboard using data from Analysis Service Sales. The primary objective is to acquire skills in development through Power BI service, with a specific focus on utilizing Data Analysis Expressions (DAX).
 
+**Report View:**
+
+<img width="589" alt="image" src="https://github.com/ishitaprsd/powerbi/assets/40393863/6b6028cf-dfb0-467c-9014-ae5827c8bd39">
+
 **Prerequisites:**
 
 To effectively engage in this use case, participants should have familiarity with both Power BI service and Power BI desktop.
@@ -356,11 +377,15 @@ Upon successful completion of this use case, the expected outcomes are as follow
 
 By addressing these aspects, participants will gain practical experience in Power BI service development and DAX application, contributing to their proficiency in conducting meaningful sales analyses within the business context.
 
-# USECASE 8: Sales Performance Dashboard
+# USECASE 8: Sales Performance Dashboard I
 
 **Problem Statement:**
 
 This use case revolves around constructing a Sales Performance Dashboard using data from the Adventure Works database. The primary objective is to acquire skills in development through Power BI service, with a specific focus on utilizing Data Analysis Expressions (DAX).
+
+**Report View:**
+
+<img width="590" alt="image" src="https://github.com/ishitaprsd/powerbi/assets/40393863/e0828546-e273-433f-9383-08680e1897a7">
 
 **Prerequisites:**
 
@@ -402,7 +427,7 @@ Upon successful completion of this use case, the expected outcomes are as follow
 
 By addressing these aspects, participants will gain practical experience in Power BI service development and DAX application, contributing to their proficiency in conducting meaningful sales performance analyses within the business context.
 
-# USECASE 9: Sales Analysis Dashboard
+# USECASE 9: Sales Analysis Dashboard II
 
 **Problem Statement:**
 
@@ -410,7 +435,7 @@ This use case focuses on building a Sales Analysis Dashboard using data from Adv
 
 **Report View:**
 
-<img width="591" alt="image" src="https://github.com/ishitaprsd/powerbi/assets/40393863/f376e70a-688d-452a-956d-0598c0881a65">
+<img width="623" alt="image" src="https://github.com/ishitaprsd/powerbi/assets/40393863/0e8d2235-5942-4714-ac2e-22d8de803947">
 
 **Prerequisites:**
 
@@ -462,11 +487,76 @@ Upon successful completion of this use case, the expected outcomes are as follow
 
 By addressing these aspects, participants will gain practical experience in Power BI desktop development and DAX application, contributing to their proficiency in creating insightful and interactive sales analysis dashboards.
 
-# USECASE 10: Superstore Global Analysis
+# USECASE 10: Human Resources Dashboard
+
+# USECASE 10: Human Resources Analytics
+
+**Problem Statement:**
+
+The Human Resources built-in sample in Power BI provides a comprehensive dashboard, report, and semantic model for Human Resources departments across different companies. This sample aims to analyze new hires, active employees, and employees who have left, uncovering trends in hiring strategy and workforce dynamics. The main objectives include understanding:
+
+1. The demographics of new hires.
+2. Biases in the hiring strategy.
+3. Trends in voluntary separations.
+
+**Report View:**
+
+<img width="623" alt="image" src="https://github.com/ishitaprsd/powerbi/assets/40393863/c699d2ae-e810-43bf-938b-f206bb56e6b2">
+
+**Prerequisites:**
+
+To engage in this use case, participants should have familiarity with Power BI service and Power BI desktop. A Fabric free license is needed to explore the sample in the Power BI service.
+
+**Skills Acquired:**
+
+The key skills to be acquired in this use case include development through Power BI service, utilizing Data Analysis Expressions (DAX), and exploring insights from HR analytics.
+
+**Expected Outcome:**
+
+Upon successful completion of this use case, the expected outcomes are:
+
+1. A published report on the Power BI service, potentially with Row-Level Security (RLS) implementation.
+2. A team demonstration highlighting insights from the Human Resources Analytics dashboard and report.
+
+**Findings:**
+
+1. Analyzing new hires reveals trends such as hiring more people each month compared to the previous year, variations in hiring across regions, and a tendency to hire younger individuals.
+
+2. Examining currently active and former employees uncovers insights into year-over-year changes in active employees and separations. Notable observations include increased separations and a balanced gender split among active employees.
+
+3. Investigation into reasons for separation, especially voluntary separations, exposes trends in different age groups. For instance, a spike in voluntary separations among employees over 50 may warrant further investigation.
+
+4. The analysis of bad hires considers factors like region and gender, providing insights into areas where improvements may be needed in the hiring process.
+
+**Challenges:**
+
+1. Balancing the need for rapid hiring with the quality of hires and identifying areas of improvement in the hiring strategy.
+
+2. Implementing and understanding Row-Level Security to control data access without hindering analytical capabilities.
+
+**Next Steps:**
+
+1. Explore the Human Resources built-in sample in Power BI service to understand the underlying data and reports.
+
+2. Develop insights into new hires, active employees, and separations by exploring different visualizations and filters.
+
+3. Investigate reasons for separations, especially voluntary separations, to identify trends and potential areas for improvement.
+
+4. Analyze bad hires based on region and gender to enhance the hiring strategy.
+
+5. Utilize the Q&A feature to ask specific questions about the data and gain deeper insights.
+
+By addressing these aspects, participants will gain practical experience in HR analytics, Power BI service development, and leveraging DAX for meaningful workforce analysis.
+
+# USECASE 11: Superstore Global Analysis
 
 **Problem Statement:**
 
 This use case centers around conducting a comprehensive Superstore Global Analysis using data from Infocepts Excel. The primary objective is to acquire skills in development through Power BI desktop.
+
+**Report View:**
+
+
 
 **Prerequisites:**
 
@@ -498,7 +588,7 @@ Upon successful completion of this use case, the expected outcomes are as follow
 
 By addressing these aspects, participants will gain practical experience in Power BI desktop development, contributing to their proficiency in conducting meaningful global analyses within the business context.
 
-# USECASE 11: COVID Data Analysis
+# USECASE 12: COVID Data Analysis
 
 **Problem Statement:**
 
