@@ -435,7 +435,7 @@ This use case focuses on building a Sales Analysis Dashboard using data from Adv
 
 **Report View:**
 
-<img width="623" alt="image" src="https://github.com/ishitaprsd/powerbi/assets/40393863/0e8d2235-5942-4714-ac2e-22d8de803947">
+<img width="593" alt="image" src="https://github.com/ishitaprsd/powerbi/assets/40393863/841646a2-d53a-46ed-acdb-2f1dadb19387">
 
 **Prerequisites:**
 
@@ -486,8 +486,6 @@ Upon successful completion of this use case, the expected outcomes are as follow
 6. Plan and execute a team demonstration, showcasing the Sales Analysis Dashboard, its features, and the valuable insights it provides for data-driven decision-making.
 
 By addressing these aspects, participants will gain practical experience in Power BI desktop development and DAX application, contributing to their proficiency in creating insightful and interactive sales analysis dashboards.
-
-# USECASE 10: Human Resources Dashboard
 
 # USECASE 10: Human Resources Analytics
 
@@ -556,7 +554,7 @@ This use case centers around conducting a comprehensive Superstore Global Analys
 
 **Report View:**
 
-
+<img width="587" alt="image" src="https://github.com/ishitaprsd/powerbi/assets/40393863/8b6c6f9c-2dad-4ef3-b8a7-1d1b8879ca81">
 
 **Prerequisites:**
 
@@ -593,6 +591,10 @@ By addressing these aspects, participants will gain practical experience in Powe
 **Problem Statement:**
 
 This use case focuses on conducting a detailed COVID Data Analysis using information from the COVID-19 Activity Excel source. The primary objective is to acquire skills in development through Power BI desktop.
+
+**Report View:**
+
+<img width="602" alt="image" src="https://github.com/ishitaprsd/powerbi/assets/40393863/e963c560-ed17-4864-9cd5-1e6cd960ce58">
 
 **Prerequisites:**
 
